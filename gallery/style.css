@@ -18,6 +18,7 @@
 }
 .main-heading{
     text-align: center;
+    font-size: 20px;
 }
 @media all and (max-width: 900px){
     .column{
